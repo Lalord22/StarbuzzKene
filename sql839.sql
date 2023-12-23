@@ -1,0 +1,1 @@
+SELECT * FROM starbuzzp.table1;
